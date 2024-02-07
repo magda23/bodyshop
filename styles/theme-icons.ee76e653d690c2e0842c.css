@@ -1,0 +1,542 @@
+@charset "UTF-8";
+
+.icon--basket-dynamic:before {
+    content: ""
+}
+
+.icon--basket-dynamic:hover:before {
+    content: ""
+}
+
+.icon--box-dynamic:before {
+    content: ""
+}
+
+.icon--box-dynamic:hover:before {
+    content: ""
+}
+
+.icon--heart-dynamic:before {
+    content: ""
+}
+
+.icon--heart-dynamic:hover:before {
+    content: ""
+}
+
+.icon--location-dynamic:before {
+    content: ""
+}
+
+.icon--location-dynamic:hover:before {
+    content: ""
+}
+
+.icon--search-dynamic:before {
+    content: ""
+}
+
+.icon--search-dynamic:hover:before {
+    content: ""
+}
+
+.icon--shop-dynamic:before {
+    content: ""
+}
+
+.icon--shop-dynamic:hover:before {
+    content: ""
+}
+
+.icon--trash-dynamic:before {
+    content: ""
+}
+
+.icon--trash-dynamic:hover:before {
+    content: ""
+}
+
+.icon--truck-dynamic:before {
+    content: ""
+}
+
+.icon--truck-dynamic:hover:before {
+    content: ""
+}
+
+.icon--my-account-dynamic:before {
+    content: ""
+}
+
+.icon--my-account-dynamic:hover:before {
+    content: ""
+}
+
+.icon--external-dynamic:before {
+    content: ""
+}
+
+.icon--external-dynamic:hover:before {
+    content: ""
+}
+
+.icon--chat-dynamic:before {
+    content: ""
+}
+
+.icon--chat-dynamic:hover:before {
+    content: ""
+}
+
+.icon--map-dynamic:before {
+    content: ""
+}
+
+.icon--map-dynamic:hover:before {
+    content: ""
+}
+
+.icon--list-dynamic:before {
+    content: ""
+}
+
+.icon--list-dynamic:hover:before {
+    content: ""
+}
+
+.icon--star_empty_hover:before {
+    content: ""
+}
+
+.icon--add-set {
+    margin-right: 0;
+    font-size: 23px
+}
+
+.icon--rotate-90 {
+    transform: rotate(90deg);
+    display: block
+}
+
+@font-face {
+    font-family: icomoon;
+    src: url(/assets/fonts/icons/icomoon.eot);
+    src: url(/assets/fonts/icons/icomoon.ttf) format("truetype"), url(/assets/fonts/icons/icomoon.woff) format("woff"), url(/assets/fonts/icons/icomoon.svg#icomoon) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+[class*=" icon-"],
+[class^=icon-] {
+    font-family: icomoon !important;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon--eye_close:before {
+    content: ""
+}
+
+.icon--eye_open:before {
+    content: ""
+}
+
+.icon--cake:before {
+    content: ""
+}
+
+.icon--error:before {
+    content: ""
+}
+
+.icon--gift:before {
+    content: ""
+}
+
+.icon--star-shine:before {
+    content: ""
+}
+
+.icon--card:before {
+    content: ""
+}
+
+.icon--chat_hover:before {
+    content: ""
+}
+
+.icon--chat:before {
+    content: ""
+}
+
+.icon--external_hover:before {
+    content: ""
+}
+
+.icon--external:before {
+    content: ""
+}
+
+.icon--print:before {
+    content: ""
+}
+
+.icon--call:before {
+    content: ""
+}
+
+.icon--logo-pod:before {
+    content: ""
+}
+
+.icon--logo-primary:before {
+    content: ""
+}
+
+.icon--logo-wordmark:before {
+    content: ""
+}
+
+.icon--star:before {
+    content: ""
+}
+
+.icon--star_empty:before {
+    content: ""
+}
+
+.icon--star_half:before {
+    content: ""
+}
+
+.icon--list_hover:before {
+    content: ""
+}
+
+.icon--list:before {
+    content: ""
+}
+
+.icon--locator_hover:before {
+    content: ""
+}
+
+.icon--locator:before {
+    content: ""
+}
+
+.icon--map_hover:before {
+    content: ""
+}
+
+.icon--map:before {
+    content: ""
+}
+
+.icon--addresses_hover:before {
+    content: ""
+}
+
+.icon--addresses:before {
+    content: ""
+}
+
+.icon--arrow-left:before {
+    content: ""
+}
+
+.icon--arrow-right:before {
+    content: ""
+}
+
+.icon--basket_hover:before {
+    content: ""
+}
+
+.icon--basket:before {
+    content: ""
+}
+
+.icon--bottle_large:before {
+    content: "";
+    color: #aaa
+}
+
+.icon--bottle_medium:before {
+    content: "";
+    color: #aaa
+}
+
+.icon--bottle_small:before {
+    content: "";
+    color: #aaa
+}
+
+.icon--box_hover:before {
+    content: ""
+}
+
+.icon--box:before {
+    content: ""
+}
+
+.icon--menu:before {
+    content: ""
+}
+
+.icon--chevron-up:before {
+    content: ""
+}
+
+.icon--chevron-down:before {
+    content: ""
+}
+
+.icon--chevron-left:before {
+    content: ""
+}
+
+.icon--chevron-right:before {
+    content: ""
+}
+
+.icon--close:before {
+    content: ""
+}
+
+.icon--filter:before {
+    content: ""
+}
+
+.icon--heart_hover:before {
+    content: ""
+}
+
+.icon--heart:before {
+    content: ""
+}
+
+.icon--location_hover:before {
+    content: ""
+}
+
+.icon--location:before {
+    content: ""
+}
+
+.icon--my-account_hover:before {
+    content: ""
+}
+
+.icon--my-account:before {
+    content: ""
+}
+
+.icon--order-history_hover:before {
+    content: ""
+}
+
+.icon--order-history:before {
+    content: ""
+}
+
+.icon--password_hover:before {
+    content: ""
+}
+
+.icon--password:before {
+    content: ""
+}
+
+.icon--payment_hover:before {
+    content: ""
+}
+
+.icon--payment:before {
+    content: ""
+}
+
+.icon--plus:before {
+    content: ""
+}
+
+.icon--minus:before {
+    content: ""
+}
+
+.icon--preferences_hover:before {
+    content: ""
+}
+
+.icon--preferences:before {
+    content: ""
+}
+
+.icon--privacy_hover:before {
+    content: ""
+}
+
+.icon--privacy:before {
+    content: ""
+}
+
+.icon--profile_hover:before {
+    content: ""
+}
+
+.icon--profile:before {
+    content: ""
+}
+
+.icon--search_hover:before {
+    content: ""
+}
+
+.icon--search:before {
+    content: ""
+}
+
+.icon--shop_hover:before {
+    content: ""
+}
+
+.icon--shop:before {
+    content: ""
+}
+
+.icon--sign-out_hover:before {
+    content: ""
+}
+
+.icon--sign-out:before {
+    content: ""
+}
+
+.icon--tag:before {
+    content: ""
+}
+
+.icon--confirmation:before,
+.icon--tick:before {
+    content: ""
+}
+
+.icon--confirmation {
+    font-size: .75rem;
+    height: 32px;
+    width: 32px;
+    padding-left: 2px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: var(--cx-color-core-tertiary);
+    color: var(--cx-color-text);
+    border-radius: 50%
+}
+
+.icon--trash_hover:before {
+    content: ""
+}
+
+.icon--trash:before {
+    content: ""
+}
+
+.icon--truck_hover:before {
+    content: ""
+}
+
+.icon--truck:before {
+    content: ""
+}
+
+.icon--wishlist_hover:before {
+    content: ""
+}
+
+.icon--wishlist:before {
+    content: ""
+}
+
+.icon--bubble:before {
+    content: ""
+}
+
+.icon--play:before {
+    content: ""
+}
+
+.icon--youtube:before {
+    content: ""
+}
+
+.icon--twitter:before {
+    content: ""
+}
+
+.icon--tumblr:before {
+    content: ""
+}
+
+.icon--facebook:before {
+    content: ""
+}
+
+.icon--pinterest:before {
+    content: ""
+}
+
+.icon--linkedin:before {
+    content: ""
+}
+
+.icon--envelope:before {
+    content: ""
+}
+
+.icon--googleplus:before {
+    content: ""
+}
+
+.icon--feed:before {
+    content: ""
+}
+
+.icon--instagram:before {
+    content: ""
+}
+
+.icon--snapchat:before {
+    content: ""
+}
+
+.icon--stumbleupon:before {
+    content: ""
+}
+
+.icon--apple:before {
+    content: ""
+}
+
+.icon--android:before {
+    content: ""
+}
+
+.icon--podcast:before {
+    content: ""
+}
+
+.icon--wheelchair:before {
+    content: ""
+}
+
+.icon--clock:before {
+    content: ""
+}
